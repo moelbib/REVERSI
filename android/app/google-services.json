@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "734819089326",
+    "project_id": "reversi-game-e7da0",
+    "storage_bucket": "reversi-game-e7da0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734819089326:android:4100fa196587276e61e63f",
+        "android_client_info": {
+          "package_name": "com.example.reversi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734819089326-vpbqm3mbugfhptqs2ue3rtjaqjchn2er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPugIVRpRvhe4Kpm5Q-SyGgR8qMRmK3RA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734819089326-vpbqm3mbugfhptqs2ue3rtjaqjchn2er.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

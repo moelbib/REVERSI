@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>734819089326-m3ls1us2t9n0f0a2v3nmefepdr6mqbi4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.734819089326-m3ls1us2t9n0f0a2v3nmefepdr6mqbi4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCtzKcGbbHWr8LTVdrJy7aG-3_2Xbx60nI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>734819089326</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.reversi</string>
+	<key>PROJECT_ID</key>
+	<string>reversi-game-e7da0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>reversi-game-e7da0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:734819089326:ios:22dcb1120accffdf61e63f</string>
+</dict>
+</plist>
